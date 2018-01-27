@@ -20,7 +20,7 @@ public:
     Rectangle(std::string color, bool filled, double width, double lenght);
 
     double getWidth();
-    double getLenght();
+    double getLength();
 
     void setWidth(double width);
     void setLength(double length);
